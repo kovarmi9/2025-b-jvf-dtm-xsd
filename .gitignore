@@ -29,7 +29,6 @@ venv.bak/
 .ipynb_checkpoints/
 
 # Testing data / outputs (if you only want sample inputs in tests/data/)
-tests/data/
 tests/output/
 
 # Temporary files
